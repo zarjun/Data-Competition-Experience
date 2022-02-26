@@ -14,7 +14,7 @@
 
 
 ## 参赛经历(报名时间顺序)
-2022年01月[【NAIC】2021全国人工智能大赛：AI+视觉特征编码](https://naic.pcl.ac.cn/landingpage/2021/index.html)【参赛中】   
+2022年01月[【NAIC】2021全国人工智能大赛：AI+视觉特征编码](https://naic.pcl.ac.cn/landingpage/2021/index.html)【已结束】   
 2022年01月[【Kaggle】Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard#score) 【入门教程】（score: 0.70813/1.00000 ; rank: 12879/∞）[【源码】](https://github.com/zarjun/Data-Competition-Experience/tree/main/MyCode/Titanic_Machine%20Learning%20from%20Disaster)      
 
 
